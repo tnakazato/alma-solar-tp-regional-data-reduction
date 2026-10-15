@@ -1,0 +1,76 @@
+================================================================================
+           MeasurementSet Name:  /lustre/naasc/sciops/qa2/dludovic/2023.1.01040.S/tp_2023.1.01040.S_uid___A001_X3666_X2b0/EB0_uid___A002_X117bb05_Xa2d1/uid___A002_X117bb05_Xa2d1.ms      MS Version 2
+================================================================================
+   Observer: smwhite     Project: uid://A001/X35fd/Xf3e  
+Observation: ALMA
+Data records: 46412832       Total elapsed time = 6132.44 seconds
+   Observed from   24-May-2024/14:07:52.0   to   24-May-2024/15:50:04.4 (UTC)
+
+   ObservationID = 0         ArrayID = 0
+  Date        Timerange (UTC)          Scan  FldId FieldName             nRows     SpwIds   Average Interval(s)    ScanIntent
+  24-May-2024/14:07:52.0 - 14:08:06.0     1      0 Jupiter                   6144  [0,1,2,3]  [0.016, 0.016, 0.016, 0.016] [CALIBRATE_POINTING#ON_SOURCE]
+              14:08:09.6 - 14:08:23.7     2      0 Jupiter                   6144  [0,1,2,3]  [0.016, 0.016, 0.016, 0.016] [CALIBRATE_POINTING#ON_SOURCE]
+              14:08:32.6 - 14:09:53.6     3      0 Jupiter                  30240  [0,1,2,3]  [0.016, 0.016, 0.016, 0.016] [CALIBRATE_FOCUS#OFF_SOURCE,CALIBRATE_FOCUS#ON_SOURCE]
+              14:09:59.1 - 14:10:13.1     4      0 Jupiter                   6144  [0,1,2,3]  [0.016, 0.016, 0.016, 0.016] [CALIBRATE_POINTING#ON_SOURCE]
+              14:10:23.0 - 14:10:44.7     5      1 Sun                     129024  [0,1,2,3,4,5,6,7]  [0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001] [CALIBRATE_ATMOSPHERE#AMBIENT,CALIBRATE_ATMOSPHERE#HOT,CALIBRATE_ATMOSPHERE#OFF_SOURCE,CALIBRATE_ATMOSPHERE#REFERENCE]
+              14:10:51.4 - 14:14:57.0     6      1 Sun                    1949568  [0,1,2,3]  [0.001, 0.001, 0.001, 0.001] [OBSERVE_TARGET#OFF_SOURCE,OBSERVE_TARGET#ON_SOURCE]
+              14:15:05.7 - 14:15:27.4     7      2 Sun_Regional            129024  [0,1,2,3,4,5,6,7]  [0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001] [CALIBRATE_ATMOSPHERE#AMBIENT,CALIBRATE_ATMOSPHERE#HOT,CALIBRATE_ATMOSPHERE#OFF_SOURCE,CALIBRATE_ATMOSPHERE#REFERENCE]
+              14:15:34.2 - 14:27:51.5     8      2 Sun_Regional           5882112  [0,1,2,3]  [0.001, 0.001, 0.001, 0.001] [OBSERVE_TARGET#OFF_SOURCE,OBSERVE_TARGET#ON_SOURCE]
+              14:27:56.7 - 14:28:18.4     9      2 Sun_Regional            129024  [0,1,2,3,4,5,6,7]  [0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001] [CALIBRATE_ATMOSPHERE#AMBIENT,CALIBRATE_ATMOSPHERE#HOT,CALIBRATE_ATMOSPHERE#OFF_SOURCE,CALIBRATE_ATMOSPHERE#REFERENCE]
+              14:28:25.2 - 14:40:42.4    10      2 Sun_Regional           5882112  [0,1,2,3]  [0.001, 0.001, 0.001, 0.001] [OBSERVE_TARGET#OFF_SOURCE,OBSERVE_TARGET#ON_SOURCE]
+              14:40:47.4 - 14:41:09.1    11      2 Sun_Regional            129024  [0,1,2,3,4,5,6,7]  [0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001] [CALIBRATE_ATMOSPHERE#AMBIENT,CALIBRATE_ATMOSPHERE#HOT,CALIBRATE_ATMOSPHERE#OFF_SOURCE,CALIBRATE_ATMOSPHERE#REFERENCE]
+              14:41:15.9 - 14:53:33.2    12      2 Sun_Regional           5882112  [0,1,2,3]  [0.001, 0.001, 0.001, 0.001] [OBSERVE_TARGET#OFF_SOURCE,OBSERVE_TARGET#ON_SOURCE]
+              14:53:38.4 - 14:54:00.0    13      2 Sun_Regional            129024  [0,1,2,3,4,5,6,7]  [0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001] [CALIBRATE_ATMOSPHERE#AMBIENT,CALIBRATE_ATMOSPHERE#HOT,CALIBRATE_ATMOSPHERE#OFF_SOURCE,CALIBRATE_ATMOSPHERE#REFERENCE]
+              14:54:07.0 - 15:06:24.4    14      2 Sun_Regional           5882112  [0,1,2,3]  [0.001, 0.001, 0.001, 0.001] [OBSERVE_TARGET#OFF_SOURCE,OBSERVE_TARGET#ON_SOURCE]
+              15:06:29.5 - 15:06:51.2    15      2 Sun_Regional            129024  [0,1,2,3,4,5,6,7]  [0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001] [CALIBRATE_ATMOSPHERE#AMBIENT,CALIBRATE_ATMOSPHERE#HOT,CALIBRATE_ATMOSPHERE#OFF_SOURCE,CALIBRATE_ATMOSPHERE#REFERENCE]
+              15:06:58.3 - 15:19:15.7    16      2 Sun_Regional           5882112  [0,1,2,3]  [0.001, 0.001, 0.001, 0.001] [OBSERVE_TARGET#OFF_SOURCE,OBSERVE_TARGET#ON_SOURCE]
+              15:19:20.9 - 15:19:42.6    17      2 Sun_Regional            129024  [0,1,2,3,4,5,6,7]  [0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001] [CALIBRATE_ATMOSPHERE#AMBIENT,CALIBRATE_ATMOSPHERE#HOT,CALIBRATE_ATMOSPHERE#OFF_SOURCE,CALIBRATE_ATMOSPHERE#REFERENCE]
+              15:19:49.4 - 15:32:06.9    18      2 Sun_Regional           5882112  [0,1,2,3]  [0.001, 0.001, 0.001, 0.001] [OBSERVE_TARGET#OFF_SOURCE,OBSERVE_TARGET#ON_SOURCE]
+              15:32:12.0 - 15:32:33.7    19      2 Sun_Regional            129024  [0,1,2,3,4,5,6,7]  [0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001] [CALIBRATE_ATMOSPHERE#AMBIENT,CALIBRATE_ATMOSPHERE#HOT,CALIBRATE_ATMOSPHERE#OFF_SOURCE,CALIBRATE_ATMOSPHERE#REFERENCE]
+              15:32:40.4 - 15:44:57.8    20      2 Sun_Regional           5882112  [0,1,2,3]  [0.001, 0.001, 0.001, 0.001] [OBSERVE_TARGET#OFF_SOURCE,OBSERVE_TARGET#ON_SOURCE]
+              15:45:03.0 - 15:45:24.7    21      1 Sun                     129024  [0,1,2,3,4,5,6,7]  [0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001] [CALIBRATE_ATMOSPHERE#AMBIENT,CALIBRATE_ATMOSPHERE#HOT,CALIBRATE_ATMOSPHERE#OFF_SOURCE,CALIBRATE_ATMOSPHERE#REFERENCE]
+              15:45:31.6 - 15:49:37.5    22      1 Sun                    1949568  [0,1,2,3]  [0.001, 0.001, 0.001, 0.001] [OBSERVE_TARGET#OFF_SOURCE,OBSERVE_TARGET#ON_SOURCE]
+              15:49:42.7 - 15:50:04.4    23      1 Sun                     129024  [0,1,2,3,4,5,6,7]  [0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001] [CALIBRATE_ATMOSPHERE#AMBIENT,CALIBRATE_ATMOSPHERE#HOT,CALIBRATE_ATMOSPHERE#OFF_SOURCE,CALIBRATE_ATMOSPHERE#REFERENCE]
+           (nRows = Total number of rows per scan) 
+Fields: 3
+  ID   Code Name                RA               Decl           Epoch   SrcId      nRows
+  0    none Jupiter             03:49:12.083439 +19.17.58.98241 ICRS    0          48672
+  1    none Sun                 04:06:10.216098 +20.51.47.83982 ICRS    1        4286208
+  2    none Sun_Regional        04:05:12.005478 +20.44.48.19260 ICRS    2       42077952
+Spectral Windows:  (8 unique spectral windows and 1 unique polarization setups)
+  SpwID  Name                             #Chans   Frame   Ch0(MHz)  ChanWid(kHz)  TotBW(kHz) CtrFreq(MHz) BBC Num  Corrs  
+  0      X0000000000#ALMA_RB_03#BB_1#SQLD      1   TOPO   93021.000   2000000.000   2000000.0  93021.0000        1  XX  YY
+  1      X0000000000#ALMA_RB_03#BB_2#SQLD      1   TOPO   94979.000   2000000.000   2000000.0  94979.0000        2  XX  YY
+  2      X0000000000#ALMA_RB_03#BB_3#SQLD      1   TOPO  105021.000   2000000.000   2000000.0 105021.0000        3  XX  YY
+  3      X0000000000#ALMA_RB_03#BB_4#SQLD      1   TOPO  106979.000   2000000.000   2000000.0 106979.0000        4  XX  YY
+  4      X1747023983#ALMA_RB_03#BB_1#SQLD      1   TOPO   89021.000   2000000.000   2000000.0  89021.0000        1  XX  YY
+  5      X1747023983#ALMA_RB_03#BB_2#SQLD      1   TOPO   89021.000   2000000.000   2000000.0  89021.0000        2  XX  YY
+  6      X1747023983#ALMA_RB_03#BB_3#SQLD      1   TOPO   89021.000   2000000.000   2000000.0  89021.0000        3  XX  YY
+  7      X1747023983#ALMA_RB_03#BB_4#SQLD      1   TOPO   89021.000   2000000.000   2000000.0  89021.0000        4  XX  YY
+Sources: 20
+  ID   Name                SpwId RestFreq(MHz)  SysVel(km/s) 
+  0    Jupiter             0     -              -            
+  0    Jupiter             1     -              -            
+  0    Jupiter             2     -              -            
+  0    Jupiter             3     -              -            
+  1    Sun                 0     -              -            
+  1    Sun                 1     -              -            
+  1    Sun                 2     -              -            
+  1    Sun                 3     -              -            
+  1    Sun                 4     -              -            
+  1    Sun                 5     -              -            
+  1    Sun                 6     -              -            
+  1    Sun                 7     -              -            
+  2    Sun_Regional        0     -              -            
+  2    Sun_Regional        1     -              -            
+  2    Sun_Regional        2     -              -            
+  2    Sun_Regional        3     -              -            
+  2    Sun_Regional        4     -              -            
+  2    Sun_Regional        5     -              -            
+  2    Sun_Regional        6     -              -            
+  2    Sun_Regional        7     -              -            
+Antennas: 2:
+  ID   Name  Station   Diam.    Long.         Lat.                Offset from array center (m)                ITRF Geocentric coordinates (m)        
+                                                                     East         North     Elevation               x               y               z
+  0    PM01  T703      12.0 m   -067.45.16.2  -22.53.23.9         42.8813     -575.6902       21.7796  2225104.703545 -5440102.474508 -2481568.690039
+  1    PM04  T701      12.0 m   -067.45.18.8  -22.53.22.2        -29.1278     -522.7875       22.2072  2225045.995083 -5440149.144235 -2481520.119304
